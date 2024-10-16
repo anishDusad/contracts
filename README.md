@@ -1,0 +1,1 @@
+# Solidity-mini-contracts
