@@ -14,6 +14,6 @@ contract GraphIQSaaS {
 
     modifier onlyOwner() {
         require(msg.sender == owner, "Not contract owner");
-        _;
+  
     }
     
