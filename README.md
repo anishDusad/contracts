@@ -1,3 +1,3 @@
-# Solidity-mini-contracts
+# Solidity and Rust contracts
 
-# A Daily contract storage place
+# A storage place for miscellaneous contracts
