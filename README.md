@@ -1,3 +1,3 @@
-**Solidity and Rust contracts**
+#**Solidity and Rust contracts**
 
 # A storage place for miscellaneous contracts
